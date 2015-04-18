@@ -1,4 +1,5 @@
 #!/usr/bin/python
+# Script to check load, memory and disk usage in linux
 import os
 import subprocess 
 print "Choose from the options below:\n";
